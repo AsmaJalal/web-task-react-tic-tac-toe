@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-<img align="right" alt="Coding" width="1000" height="600" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="right" alt="Coding" width="1400" height="600" src="https://raw.githubusercontent.com/AsmaJalal/web-task-react-tic-tac-toe/master/gAME.gif">
 
 
 ### `npm start`
