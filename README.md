@@ -1,3 +1,33 @@
+## Tic-Tac-Toe with Framer Motion
+
+This React application brings the classic game of Tic-Tac-Toe to life, enhancing it with fluid animations using Framer Motion. It offers a delightful user experience with smooth transitions and engaging visual feedback for every move.
+
+### App Demo
+
+<img align="right" alt="Coding" width="1400" height="500" src="https://raw.githubusercontent.com/AsmaJalal/web-task-react-tic-tac-toe/master/gAME.gif">
+
+
+# Key Features:
+
+Interactive Game Board: The game board comprises nine squares where players can make their moves.
+Turn-Based Play: Players take turns marking 'X' or 'O' on the board, with dynamic indicators of whose turn it is.
+Winning Logic: The game automatically detects winning combinations and announces the winner.
+Game Reset: After a win or a draw, players can reset the game to start a new match.
+Enhanced Visuals:
+
+Animations: Enjoy seamless transitions and engaging motion effects throughout the game, enhancing the overall gaming experience.
+Victory Announcement: When a player wins or the game ends in a draw, a visually appealing animation announces the result with celebratory effects.
+
+# How to Play:
+
+Players take turns clicking on the squares to place their 'X' or 'O'.
+The game automatically detects winning combinations or a draw and displays an animated victory or draw announcement.
+Players can reset the game anytime to start afresh.
+
+# Purpose:
+
+This application aims to entertain users with an enhanced version of the classic Tic-Tac-Toe game, providing a visually engaging and interactive gaming experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,9 +35,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
-<img align="right" alt="Coding" width="1400" height="500" src="https://raw.githubusercontent.com/AsmaJalal/web-task-react-tic-tac-toe/master/gAME.gif">
-
 
 ### `npm start`
 
